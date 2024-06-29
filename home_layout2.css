@@ -1,0 +1,144 @@
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #1e2124;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.spinner-border {
+  width: 5rem;
+  height: 5rem;
+  color: #dc3545; /* cor personalizável */
+}
+
+
+/* Estilos para o tema escuro */
+.dark-mode {
+  --bg-color: #1e2124;
+  --text-color: #fff;
+}
+
+/* Estilos para o tema claro */
+.light-mode {
+  --bg-color: #fff;
+  --text-color: #000;
+}
+
+
+/* Ajuste para o modo computador */
+@media (min-width: 768px) {
+  .with-sidebar {
+    padding-left: 200px; /* Largura da sidebar */
+  }
+  
+
+
+.navbar.light-mode {
+  background-color: var(--color-background-light);
+  color: var(--color-text-light);
+}
+
+.navbar.dark-mode {
+  background-color: var(--color-background-dark);
+  color: var(--color-text-dark);
+}
+
+
+/* Estilos para o tema escuro */
+    :root {
+      --sidebar-bg-color: #1e2124;
+      --sidebar-text-color: #fff;
+    }
+
+    /* Estilos para o tema claro */
+    .light-mode {
+      --sidebar-bg-color: #fff;
+      --sidebar-text-color: #000;
+    }
+
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 200px; /* Largura da sidebar */
+    
+  }
+
+  .page-wrapper {
+    display: flex;
+  }
+  
+  .content-wrapper {
+    flex: 1;
+    padding: 15px;
+    
+  }
+}
+
+.container {
+padding-top: 2px;
+}
+
+.sticky-alerts {
+padding-top: 30px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animated-banner {
+  border-radius: 50%;
+  width: 40px;
+  animation: rotate 3s linear infinite;
+}
+
+.container-fluid {
+text-align: center;
+padding-top: 10px;
+}
+
+
+  .highlighted-code {
+    color: red; 
+    background-color: white;
+    border-radius: 30px;
+    animation: fadeAnimation 2s infinite;
+  }
+
+  @keyframes fadeAnimation {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+/* cor do texto dos card do dashboard */
+.theme-white {
+  background-color: white;
+}
+
+/* cor do texto dos card do dashboard */
+.theme-black {
+  background-color: black;
+}
+
+/* cor do texto dos card do dashboard */
+.theme-white #theme-text {
+  color: white !important;
+}
+
+/* cor do texto dos card do dashboard */
+.theme-black #theme-text {
+  color: black !important;
+}

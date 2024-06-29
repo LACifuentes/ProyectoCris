@@ -1,0 +1,36 @@
+{
+    "Version": 52,
+    "ReleaseNotes": "",
+    "Sms": "https://onedblack.alphi.media/update/admin/sms",
+    "UrlUpdate": "https://onedblack.alphi.media/update/admin/config",
+    "EmailFeedback": "",
+    "UrlContato": "",
+    "videoUrl": "",
+    "logoonline": "https://i.ibb.co/T8HZVhs/FB-IMG-1695274715863.jpg",
+    "fundoonline": "https://i.ibb.co/84pG8gc/FB-IMG-1695185193065.jpg",
+    "UrlTermos": "",
+    "CheckUser": "true",
+    "Online": "true",
+    "UdpPort": "7300;7500;7600;7599;7200;7777;9999",
+    "Painel": "https://onedblack.alphi.media/",
+    "Servers": [
+        {
+            "Name": "teste",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "209.14.71.26",
+            "CheckUser": "http://209.14.71.24:5454/checkUser",
+            "ServerPort": 22,
+            "SSLPort": 443,
+            "ServerUser": "",
+            "ServerPass": "",
+            "Online": "http://209.14.71.24:8888/server/online",
+            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: [app_host][lf]",
+            "SNI": "",
+            "TlsIP": "209.14.71.26",
+            "ProxyIP": "209.14.71.26",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Generate Link Whatsapp",
+  "short_name": "LKW",
+  "start_url": ".",
+  "description": "A page to generate whatsapp contacts link",
+  "default_locale": "pt-br",
+  "display": "standalone",
+  "orientation": "portrait",
+  "offline_enabled": true,
+  "developer": {
+    "name": "João Eymard",
+    "url": "https://joaoeymard.dev"
+  },
+  "theme": {
+    "colors": {
+      "frame": "#128c7e"
+    }
+  }
+}

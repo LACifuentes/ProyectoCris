@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="o nelhor aplicativo na atualialidade de vpn" content="descrição do site">
+  <title>vendas scanner vpn</title>
+  
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <style>
+    /* Estilos padrão */
+    body {
+      background-color: #f8f9fa;
+    }
+
+    .navbar {
+      background-color: #ffffff;
+    }
+
+    .hero {
+      background-color: #007bff;
+    }
+
+    .features {
+      background-color: #ffffff;
+    }
+
+    .cta {
+      background-color: #f8f9fa;
+    }
+
+    .footer {
+      background-color: #343a40;
+    }
+
+    .footer p {
+      color: #ffffff;
+    }
+
+    /* Estilos para o tema claro */
+    .theme-light .card {
+      background-color: #ffffff;
+    }
+
+    .theme-light .navbar {
+      color: #000000;
+    }
+
+    /* Estilos para o tema escuro */
+    .theme-dark {
+      background-color: #343a40;
+      color: #ffffff;
+    }
+
+    .theme-dark .card {
+      background-color: #343a40;
+      color: #ffffff;
+    }
+
+    .theme-dark .navbar {
+      background-color: #343a40;
+      color: #ffffff;
+    }
+
+    /* Estilos compartilhados */
+    .card-img-top {
+      object-fit: cover;
+      height: 200px;
+      width: 200px;
+      border-radius: 50%;
+      margin: 0 auto;
+    }
+
+    /* Estilo personalizado para destacar o texto "INÍCIO" */
+    .highlight {
+      color: black;
+      font-weight: bold;
+    }
+   
+    .banner-container {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 15vh;
+    }
+
+    .banner-image {
+      max-width: 150px;
+      height: 150px;
+      position: absolute;
+      top: 10px;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      margin: auto;
+    }
+  </style>
+</head>
+
+<body class="theme-light">
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container">
+      <a class="navbar-brand" href="#"><span class="highlight">INÍCIO</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#">EM BREVE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">EM BREVE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">EM BREVE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">EM BREVE</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  
+  <!-- CTA Section -->
+  <section class="cta py-5 text-center">
+    <div class="container">
+      <hr>
+      <h2 class="mb-4">ENTRE NO GRUPO<br>E<br>TIRE SUAS DÚVIDAS</h2>
+      <p class="lead mb-4">não perca mais tempo<br>venha ser seu patrão<br>vendendo seus próprios logins ssh<br>com o aplicativo.</p>
+      <a href="https://t.me/+j39B24xIhpFiMmJh" class="btn btn-outline-success btn-lg">QUERO SER PATRÃO</a>
+    </div>
+    <br>
+    <div class="plan-card">
+    <h2 class="plan-title">
+    <h1>VENDEDORES AUTORIZADO </h1>
+    <br>
+    <a href="https://t.me/VEM_BRABO" class="btn btn-outline-danger btn-lg">VEM_BRABO</a>
+    <a href="https://t.me/scvirtual" class="btn btn-outline-danger btn-lg">SCVIRTUAL</a>
+  </div>
+    <br>
+    <h2 class="mb-4">TEMOS PLANOS<br>DE<br>VENDAS<br>LOGINS SSH</h2>
+      <p class="lead mb-4">não fique sem internet<br>contrate um de nossos planos no botão.</p>
+      <a href="vendas_ssh_vip.php" class="btn btn-outline-success btn-lg">QUERO CONTRATAR</a>
+   
+    </div>
+  </section>
+
+  <div class="banner-container"> <a href="https://media.tenor.com/n_vchUqvMbgAAAAC/apontando-para-cima-apontar.gif" target="_blank"> 
+<img class="banner-image" src="https://media.tenor.com/n_vchUqvMbgAAAAC/apontando-para-cima-apontar.gif" alt="Banner"> 
+</a> 
+</div>
+<br>
+<hr>
+
+  <!-- Features Section -->
+  <section class="features py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <a href="https://via.placeholder.com/200" target="_blank">
+                <img src="https://vembrabo.alphi.media/imgshare/uploads/brabo.png" class="card-img-top" alt="Banner 1">
+              </a>
+              <p>
+              <h3 class="card-title">APLICATIVO SCANNY VPN</h3>
+              <p class="card-text">ASSINATURA VITALÍCIO</p>
+              <p class="card-text">PREÇO: R$ 150,00</p>
+              <a href="#" class="btn btn-success">QUERO ADIQUIRIR</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <a href="https://via.placeholder.com/200" target="_blank">
+                <img src="https://vembrabo.alphi.media/imgshare/uploads/IMG_20230522_143638_519.jpg" class="card-img-top" alt="Banner 2">
+              </a>
+              <p>
+              <h3 class="card-title">APLICATIVO SCANNY VPN</h3>
+              <p class="card-text">ASSINATURA MENSAL</p>
+              <p class="card-text">PREÇO: R$ 30,00</p>
+              <a href="#" class="btn btn-success">QUERO ADIQUIRIR</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <a href="https://via.placeholder.com/200" target="_blank">
+                <img src="https://vembrabo.alphi.media/imgshare/uploads/download%20(3).png" class="card-img-top" alt="Banner 3">
+              </a>
+              <p>
+              <h3 class="card-title">APLICATIVO SCANNER VPN</h3>
+              <p class="card-text">ASSINATURA QUINZENAL</p>
+              <p class="card-text">PREÇO: R$ 15,00</p>
+              <a href="#" class="btn btn-success">QUERO ADIQUIRIR</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card mb-4">
+            <div class="card-body text-center">
+              <a href="https://via.placeholder.com/200" target="_blank">
+                <img src="https://vembrabo.alphi.media/imgshare/uploads/IMG_20230224_201213_028.png" class="card-img-top" alt="Banner 3">
+              </a>
+              <p>
+              <h3 class="card-title">APLICATIVO SCANNER VPN</h3>
+              <p class="card-text">ASSINATURA DEZENAL</p>
+              <p class="card-text">PREÇO: R$ 10,00</p>
+              <a href="#" class="btn btn-success">QUERO ADIQUIRIR</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="hero text-white text-center py-5">
+    <div class="container">
+      <h1 class="display-4">Por que usar VPN é melhor?</h1>
+      <p class="lead">Uma das principais vantagens de utilizar uma VPN (Rede Virtual Privada) é a proteção adicional que ela oferece aos usuários. Ao se conectar a uma VPN, seu tráfego de internet é criptografado e roteado por um túnel seguro, protegendo suas informações pessoais e atividades online de olhares indiscretos.
+
+A criptografia de dados garante que suas comunicações sejam protegidas contra interceptação e espionagem, mesmo em redes Wi-Fi públicas ou não confiáveis. Isso significa que suas informações confidenciais, como senhas, dados bancários e informações pessoais, permanecem seguras e privadas.
+
+Além disso, ao usar uma VPN, seu endereço IP real fica oculto e substituído pelo endereço IP do servidor VPN. Isso ajuda a manter sua identidade e localização privadas, dificultando o rastreamento de suas atividades online por terceiros, como anunciantes, provedores de serviços de internet (ISPs) e até mesmo governos.
+
+A proteção fornecida por uma VPN é especialmente importante ao acessar a internet em redes públicas, como cafés, aeroportos ou hotéis, onde os riscos de segurança são maiores. Com uma VPN, você pode navegar na web com tranquilidade, sabendo que sua conexão está segura e suas informações estão protegidas.
+
+Em resumo, o uso de uma VPN oferece uma camada adicional de proteção e privacidade para suas atividades online, ajudando a manter suas informações seguras e impedindo que terceiros acompanhem sua navegação na internet.</p>
+      <a href="https://t.me/+j39B24xIhpFiMmJh" class="btn btn-danger btn-lg">Saiba Mais</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer py-4 text-center">
+    <div class="container">
+      <p>&copy; TECH_VPN CORPORATION SOLUCTIONS</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
